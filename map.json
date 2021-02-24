@@ -37,7 +37,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"jitsiConfig: { \"startWithAudioMuted\": true }"
+                 "value":"{\"startWithAudioMuted\": true}"
                 }, 
                 {
                  "name":"jitsiRoom",
